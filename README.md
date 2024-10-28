@@ -1,4 +1,4 @@
-# 🌟 Resolução da Lista de Exercícios 01🌟
+# 🌟 Resolução da Lista de Exercícios 01 🌟
 
 ## 📚 Matéria: Programação Orientada a Objetos
 **Professor:** Roger Moura Sarmento
