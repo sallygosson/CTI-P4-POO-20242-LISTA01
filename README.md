@@ -3,6 +3,6 @@
 
 Minha equipe é composta por;
 - [Sally Gosson Viana Colombo](https://github.com/sallygosson)
-- Marcella Ivina de Araújo Gondim
-- Francisco Israel Alves Barbosa
-- Hosana Clara Brito Soares Bezerra
+- [Marcella Ivina de Araújo Gondim](https://github.com/MarcyIvi)
+- [Francisco Israel Alves Barbosa](https://github.com/alvesisrael221)
+- [Hosana Clara de Brito Soares Bezerra](https://github.com/hosanasoaress)
