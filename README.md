@@ -1,8 +1,22 @@
-# CTI-P4-POO-20242-LISTA01
-📋 Lista de exercícios 01 da disciplina ***Programação Orientada a Objetos*** ministrada pelo professor ***Roger Moura Sarmento***.
+# 🌟 Resolução da Lista de Exercícios 01🌟
 
-Minha equipe é composta por;
+## 📚 Matéria: Programação Orientada a Objetos
+**Professor:** Roger Moura Sarmento
+
+---
+
+## 👩‍🎓 Membros da Equipe
 - [Sally Gosson Viana Colombo](https://github.com/sallygosson)
 - [Marcella Ivina de Araújo Gondim](https://github.com/MarcyIvi)
 - [Francisco Israel Alves Barbosa](https://github.com/alvesisrael221)
 - [Hosana Clara de Brito Soares Bezerra](https://github.com/hosanasoaress)
+
+---
+
+## 📝 Descrição
+Este repositório contém a resolução da lista de exercícios 01 proposta na disciplina de Programação Orientada a Objetos. Cada exercício foi abordado de forma a facilitar o entendimento dos conceitos fundamentais da matéria.
+
+---
+
+## ⚙️ Linguagens Utilizadas
+- Java
