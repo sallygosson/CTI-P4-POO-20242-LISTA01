@@ -1,5 +1,5 @@
 # CTI-P4-POO-20242-LISTA01
-📋 Lista de exercícios 01 da disciplina ***Programação Orientada a Objetos*** dada pelo professor ***Roger Moura Sarmento***.
+📋 Lista de exercícios 01 da disciplina ***Programação Orientada a Objetos*** ministrada pelo professor ***Roger Moura Sarmento***.
 
 Minha equipe é composta por;
 - [Sally Gosson Viana Colombo](https://github.com/sallygosson)
